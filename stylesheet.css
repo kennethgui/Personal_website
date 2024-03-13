@@ -16,30 +16,24 @@
 }
 
 h1 {
-    font-size: 100px !important;
+    font-size: 50px !important;
 }
 
 .links{
-    display:inline-block;
+    display: inline;
+    max-width:20%;
+    max-height: 100%;
+    padding: 5px;
 }
 
 .announcement {
     font-weight: bold;
-}
-.update {
-    padding: 40vh 20vh 100vh 20vh;
 }
 
 .technologieslogo {
     margin: 0% 20% 10% 20%;
     display: inline-block;
 }
-
-img {
-    max-width:20%;
-    max-height: 100%;
-}
-
 
 .things {
     color: white;
