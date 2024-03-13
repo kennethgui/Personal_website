@@ -12,13 +12,17 @@
 .header {
     color: white;
     text-align: center;
-    padding: 40vh 0vh 100vh 0vh;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 30vh 0vh 100vh 0vh;
 }
 
 h1 {
     font-size: 50px !important;
 }
 
+.things{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
 .links{
     display: inline;
     max-width:20%;
@@ -52,8 +56,8 @@ h1 {
 }
 
 .aboutme {
-   padding-top: 30vh;
-   padding-bottom: 10vh;
+    padding-top: 30vh;
+    padding-bottom: 10vh;
 }
 
 .annoucementx {
