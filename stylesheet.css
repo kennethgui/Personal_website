@@ -31,14 +31,14 @@ h1 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: white;
     background-color: #35393C;
-    padding: 50px;
+    padding-top: 100px;
+    height: 100vh;
 }
 
 .aboutme {
     display: flex;
     align-items: center; 
     justify-content: center; 
-    gap: 20px; 
     flex-wrap: wrap; 
 }
 
